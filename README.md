@@ -14,3 +14,9 @@ Landing Page: Includes a header with navigation, a main section with a value pro
 Sign-up/Login Modal: A modal with fields for email, password, and buttons for sign-up/login.
 Payment Section: Fields for card details, PayPal button, and coupon code input.
 Coupon Code: A section to enter and apply coupon codes.
+Create the necessary React components:
+
+Landing Page: LandingPage.js
+Sign-up/Login Modal: AuthModal.js
+Payment Section: PaymentSection.js
+Coupon Code Section: CouponCode.js
