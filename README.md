@@ -20,3 +20,6 @@ Landing Page: LandingPage.js
 Sign-up/Login Modal: AuthModal.js
 Payment Section: PaymentSection.js
 Coupon Code Section: CouponCode.js
+Back-end and Analytics
+1. Set Up Firebase (2 hrs)
+Initialize Firebase in your project. Create a Firebase project and add the configuration to your React app.
